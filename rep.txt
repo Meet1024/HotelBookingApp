@@ -1,0 +1,23 @@
+import express from ('express');
+const router = express.Router;
+
+
+
+
+
+export default router;
+ 
+
+ "name": "Mariott",
+    "type": "Hotel",
+    "city": "Athens",
+    "address": "Sq Lane",
+    "distance": "500",
+    "photos": [],
+    "title": "Taj",
+    "desc": "hotel is good one and is also in main city",
+    "rooms": [],
+    "cheapestPrice": 100,
+    "featured": false,
+
+    node -e "console.log(require('crypto').randomBytes(64).toString('base64'));"
